@@ -496,6 +496,7 @@
             </reporting>
         </profile>
     </profiles>
+<<<<<<< HEAD
 	<distributionManagement>
 		
 			<repository>
@@ -505,4 +506,13 @@
 			</repository>
 		
 	</distributionManagement>
+=======
+    <distributionManagement>
+        <repository>
+            <id>snapshots</id>
+            <name>snapshots</name>
+            <url>http://localhost:8081/repository/snapshots/ </url>
+        </repository>
+    </distributionManagement>
+>>>>>>> 6905eb9cd76995d4f6af176678cbaf91f653cdeb
 </project>
