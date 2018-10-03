@@ -495,7 +495,7 @@
             </reporting>
         </profile>
     </profiles>
-    <distrubutionManagement>
+    <distributionManagement>
         <repository>
             <id>snapshots</id>
             <name>snapshots</name>
